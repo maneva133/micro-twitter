@@ -1,0 +1,16 @@
+$primary-color: #4f46e5;
+$primary-light: #6366f1;
+$background-gradient: linear-gradient(135deg, #eef2ff, #e0e7ff);
+$shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+
+.submit-btn {
+  background: $primary-color;
+  color: white;
+  border-radius: 0.6rem;
+  padding: 0.8rem 1.2rem;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s;
+  &:hover { background: $primary-light; }
+}

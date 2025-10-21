@@ -1,0 +1,12 @@
+<mat-toolbar color="primary">
+  <button mat-button routerLink="/" *ngIf="userService.currentUser$ | async">Feed</button>
+  <button mat-button routerLink="/my-posts" *ngIf="userService.currentUser$ | async">My Posts</button>
+  <button mat-button routerLink="/create" *ngIf="userService.currentUser$ | async">Create Post</button>
+
+  <button mat-button routerLink="/login" *ngIf="!(userService.currentUser$ | async)">Login</button>
+  <button mat-button routerLink="/register" *ngIf="!(userService.currentUser$ | async)">Register</button>
+
+  <button mat-button (click)="logout()" *ngIf="userService.currentUser$ | async">Logout</button>
+</mat-toolbar>
+
+<router-outlet></router-outlet>

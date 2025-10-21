@@ -1,0 +1,5 @@
+<mat-card class="post-card">
+  <p>{{ post.content }}</p>          
+  <small>by {{ post.username }}</small> 
+  <button *ngIf="isMine" (click)="deletePost()">🗑️ Delete</button> 
+</mat-card>

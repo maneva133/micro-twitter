@@ -1,0 +1,28 @@
+@use '../../../styles/theme' as *;
+
+.page-container {
+  min-height: 100vh;
+  padding: 2rem;
+  background: $background-gradient;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+
+  h1 {
+    font-size: 2rem;
+    color: $primary-color;
+  }
+
+  p {
+    color: #475569;
+  }
+}
+
+.posts-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  justify-items: center;
+}

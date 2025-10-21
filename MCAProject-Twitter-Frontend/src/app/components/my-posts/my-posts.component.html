@@ -1,0 +1,21 @@
+<div class="page-container">
+  <div class="page-header">
+    <h1>My Posts</h1>
+    <p>Manage and review your activity</p>
+  </div>
+
+  <div *ngFor="let post of myPosts">
+  <app-post-card
+  *ngFor="let post of myPosts"
+  [post]="post"
+  [isMine]="post.username === userService.getCurrentUser()"
+  (delete)="onDeletePost(post.id)">
+</app-post-card>
+
+</div>
+
+
+  <ng-template #noPosts>
+    <p class="no-posts">You haven’t posted anything yet.</p>
+  </ng-template>
+</div>
