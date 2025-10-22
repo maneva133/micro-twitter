@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JByIruNphLLRZrygYVqsre+8QLPIY7XM13LdFGnCJubCxZ6J0uMX+Vdy27Izeq4a/Yu1uf8uEJvg0FA+fEL6uw==",
+  "dgSpecHash": "Dp4htau2bf1RmQfk1SHchF0V2mOb6BiS2OO6cd0jmYWDp0dPaKe05FWZ8U1veo2x0etttzxGFzfkaPjviF4xHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Fax\\proekti\\MCAProject-Twitter\\MCAProject-Twitter\\MCAProject-Twitter.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\MCAProject-Twitter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",

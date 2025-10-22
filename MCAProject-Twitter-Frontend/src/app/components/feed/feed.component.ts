@@ -9,7 +9,7 @@ import { MatCardModule } from '@angular/material/card';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { PostCardComponent } from '../post-card/post-card.component';
-
+import {UserService} from '../../services/user.service';
 
 @Component({
 selector: 'app-feed',
@@ -31,7 +31,7 @@ export class FeedComponent implements OnInit {
 posts: Post[] = [];
 
 
-constructor(private postsService: PostsService) {}
+constructor(public userService: UserService, private postsService: PostsService) {}
 
 
 ngOnInit(): void {
@@ -46,5 +46,11 @@ this.postsService.getAll().subscribe(p => this.posts = p);
 
 onDeleted() {
 this.load();
+}
+
+onDeletePost(id: number | undefined): void {
+  if (!id) return;
+  this.postsService.delete(id)
+    .subscribe(() => this.load());
 }
 }

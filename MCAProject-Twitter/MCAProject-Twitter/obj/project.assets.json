@@ -2660,11 +2660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Fax\\proekti\\MCAProject-Twitter\\MCAProject-Twitter\\MCAProject-Twitter.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\MCAProject-Twitter.csproj",
       "projectName": "MCAProject-Twitter",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Fax\\proekti\\MCAProject-Twitter\\MCAProject-Twitter\\MCAProject-Twitter.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\MCAProject-Twitter.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Fax\\proekti\\MCAProject-Twitter\\MCAProject-Twitter\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
