@@ -3,7 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|c:\\users\\hp\\desktop\\micro-twitter\\mcaproject-twitter\\mcaproject-twitter\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}|MCAProject_Twitter.Tests\\MCAProject_Twitter.Tests.csproj|c:\\users\\hp\\desktop\\micro-twitter\\mcaproject-twitter\\mcaproject_twitter.tests\\test\\getallpostsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}|MCAProject_Twitter.Tests\\MCAProject_Twitter.Tests.csproj|solutionrelative:mcaproject_twitter.tests\\test\\getallpostsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}|MCAProject_Twitter.Tests\\MCAProject_Twitter.Tests.csproj|c:\\users\\hp\\desktop\\micro-twitter\\mcaproject-twitter\\mcaproject_twitter.tests\\test\\deletepostcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}|MCAProject_Twitter.Tests\\MCAProject_Twitter.Tests.csproj|solutionrelative:mcaproject_twitter.tests\\test\\deletepostcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}|MCAProject_Twitter.Tests\\MCAProject_Twitter.Tests.csproj|c:\\users\\hp\\desktop\\micro-twitter\\mcaproject-twitter\\mcaproject_twitter.tests\\test\\createpostcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}|MCAProject_Twitter.Tests\\MCAProject_Twitter.Tests.csproj|solutionrelative:mcaproject_twitter.tests\\test\\createpostcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}|MCAProject_Twitter.Tests\\MCAProject_Twitter.Tests.csproj|c:\\users\\hp\\desktop\\micro-twitter\\mcaproject-twitter\\mcaproject_twitter.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}|MCAProject_Twitter.Tests\\MCAProject_Twitter.Tests.csproj|solutionrelative:mcaproject_twitter.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\queries\\getmypostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\queries\\getmypostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\queries\\getallpostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\queries\\getallpostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\commands\\deletepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\commands\\deletepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\commands\\createpostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\commands\\createpostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,14 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\repositories\\implementation\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,36 +99,8 @@
       "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\commands\\deletepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\commands\\deletepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\commands\\createpostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\commands\\createpostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\queries\\getmypostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\queries\\getmypostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\mcaproject-twitter\\cqrs\\queries\\getallpostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942C0745-65D5-4A3E-B318-02C501212847}|MCAProject-Twitter\\MCAProject-Twitter.csproj|solutionrelative:mcaproject-twitter\\cqrs\\queries\\getallpostsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,6 +126,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
@@ -114,44 +142,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "GetAllPostsQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject_Twitter.Tests\\Test\\GetAllPostsQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "MCAProject_Twitter.Tests\\Test\\GetAllPostsQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject_Twitter.Tests\\Test\\GetAllPostsQueryHandlerTests.cs",
+              "RelativeToolTip": "MCAProject_Twitter.Tests\\Test\\GetAllPostsQueryHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:02:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeletePostCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject_Twitter.Tests\\Test\\DeletePostCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "MCAProject_Twitter.Tests\\Test\\DeletePostCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject_Twitter.Tests\\Test\\DeletePostCommandHandlerTests.cs",
+              "RelativeToolTip": "MCAProject_Twitter.Tests\\Test\\DeletePostCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:02:21.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePostCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject_Twitter.Tests\\Test\\CreatePostCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "MCAProject_Twitter.Tests\\Test\\CreatePostCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject_Twitter.Tests\\Test\\CreatePostCommandHandlerTests.cs",
+              "RelativeToolTip": "MCAProject_Twitter.Tests\\Test\\CreatePostCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:02:16.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject_Twitter.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MCAProject_Twitter.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject_Twitter.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MCAProject_Twitter.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:00:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogInQuery.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Queries\\LogInQuery.cs",
+              "RelativeDocumentMoniker": "MCAProject-Twitter\\CQRS\\Queries\\LogInQuery.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Queries\\LogInQuery.cs",
+              "RelativeToolTip": "MCAProject-Twitter\\CQRS\\Queries\\LogInQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T09:27:05.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Commands\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "MCAProject-Twitter\\CQRS\\Commands\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Commands\\RegisterUserCommand.cs",
+              "RelativeToolTip": "MCAProject-Twitter\\CQRS\\Commands\\RegisterUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T09:24:28.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Repositories\\Implementation\\UserRepository.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Repositories\\Implementation\\UserRepository.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Repositories\\Implementation\\UserRepository.cs",
               "RelativeToolTip": "MCAProject-Twitter\\Repositories\\Implementation\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T13:05:59.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T13:05:59.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Controllers\\UserController.cs",
               "RelativeToolTip": "MCAProject-Twitter\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T13:07:16.248Z"
+              "WhenOpened": "2025-10-20T13:07:16.248Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Services\\UserService.cs",
               "RelativeToolTip": "MCAProject-Twitter\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T13:06:33.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Repositories\\IUserRepository.cs",
@@ -163,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\DTOs\\LoginDto.cs",
@@ -175,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\DTOs\\RegisterDto.cs",
@@ -187,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Models\\User.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Models\\User.cs",
@@ -199,31 +303,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Program.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Program.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Program.cs",
               "RelativeToolTip": "MCAProject-Twitter\\Program.cs",
-              "ViewState": "AQIAABcAAACAMzMzMzMbwBQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T12:19:16.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "PostController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Controllers\\PostController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Controllers\\PostController.cs",
               "RelativeToolTip": "MCAProject-Twitter\\Controllers\\PostController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:18:37.887Z"
+              "WhenOpened": "2025-10-14T12:18:37.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Models\\Post.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Models\\Post.cs",
@@ -235,37 +340,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "PostService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Services\\PostService.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Services\\PostService.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Services\\PostService.cs",
               "RelativeToolTip": "MCAProject-Twitter\\Services\\PostService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T12:17:54.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "GetMyPostsQuery.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Queries\\GetMyPostsQuery.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\CQRS\\Queries\\GetMyPostsQuery.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Queries\\GetMyPostsQuery.cs",
               "RelativeToolTip": "MCAProject-Twitter\\CQRS\\Queries\\GetMyPostsQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T12:17:06.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "GetAllPostsQuery.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Queries\\GetAllPostsQuery.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\CQRS\\Queries\\GetAllPostsQuery.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Queries\\GetAllPostsQuery.cs",
               "RelativeToolTip": "MCAProject-Twitter\\CQRS\\Queries\\GetAllPostsQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T12:16:44.439Z"
             },
@@ -277,7 +382,7 @@
               "RelativeDocumentMoniker": "MCAProject-Twitter\\CQRS\\Commands\\DeletePostCommand.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Commands\\DeletePostCommand.cs",
               "RelativeToolTip": "MCAProject-Twitter\\CQRS\\Commands\\DeletePostCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T12:15:48.043Z"
             },
@@ -289,13 +394,13 @@
               "RelativeDocumentMoniker": "MCAProject-Twitter\\CQRS\\Commands\\CreatePostCommand.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\CQRS\\Commands\\CreatePostCommand.cs",
               "RelativeToolTip": "MCAProject-Twitter\\CQRS\\Commands\\CreatePostCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA8vSAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T12:15:12.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "PostDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\DTOs\\PostDto.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\DTOs\\PostDto.cs",
@@ -307,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "PostRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Repositories\\Implementation\\PostRepository.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Repositories\\Implementation\\PostRepository.cs",
@@ -319,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "IPostRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Repositories\\IPostRepository.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Repositories\\IPostRepository.cs",
@@ -331,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\micro-twitter\\MCAProject-Twitter\\MCAProject-Twitter\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MCAProject-Twitter\\Data\\AppDbContext.cs",

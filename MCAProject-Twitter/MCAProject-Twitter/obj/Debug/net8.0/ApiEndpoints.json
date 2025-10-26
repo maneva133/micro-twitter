@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "MCAProject_Twitter.Controllers.PostsController",
-    "Method": "GetAll",
+    "Method": "GetAllPosts",
     "RelativePath": "api/Posts",
     "HttpMethod": "GET",
     "IsController": true,
@@ -11,15 +11,15 @@
   },
   {
     "ContainingType": "MCAProject_Twitter.Controllers.PostsController",
-    "Method": "Create",
+    "Method": "CreatePost",
     "RelativePath": "api/Posts",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "MCAProject_Twitter.DTOs.PostDto",
+        "Name": "command",
+        "Type": "MCAProject_Twitter.CQRS.Commands.CreatePostCommand",
         "IsRequired": true
       }
     ],
@@ -27,7 +27,7 @@
   },
   {
     "ContainingType": "MCAProject_Twitter.Controllers.PostsController",
-    "Method": "Delete",
+    "Method": "DeletePost",
     "RelativePath": "api/Posts/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
@@ -66,8 +66,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "MCAProject_Twitter.DTOs.LoginDto",
+        "Name": "query",
+        "Type": "MCAProject_Twitter.CQRS.Queries.LoginQuery",
         "IsRequired": true
       }
     ],
@@ -82,8 +82,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "MCAProject_Twitter.DTOs.RegisterDto",
+        "Name": "command",
+        "Type": "MCAProject_Twitter.CQRS.Commands.RegisterUserCommand",
         "IsRequired": true
       }
     ],

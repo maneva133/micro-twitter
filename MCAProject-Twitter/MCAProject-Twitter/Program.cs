@@ -3,6 +3,8 @@ using MCAProject_Twitter.Repositories.Implementation;
 using MCAProject_Twitter.Repositories;
 using MCAProject_Twitter.Services;
 using Microsoft.EntityFrameworkCore;
+using MCAProject_Twitter.CQRS.Commands;
+using MCAProject_Twitter.CQRS.Queries;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,8 +27,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<IPostRepository, PostRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<UserService>();
-
 builder.Services.AddScoped<PostService>();
+builder.Services.AddScoped<CreatePostCommandHandler>();
+builder.Services.AddScoped<DeletePostCommandHandler>();
+builder.Services.AddScoped<RegisterUserCommandHandler>();
+builder.Services.AddScoped<GetAllPostsQueryHandler>();
+builder.Services.AddScoped<GetMyPostsQueryHandler>();
+builder.Services.AddScoped<LoginQueryHandler>();
 
 var app = builder.Build();
 

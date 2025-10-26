@@ -1,4 +1,6 @@
-﻿using MCAProject_Twitter.DTOs;
+﻿using MCAProject_Twitter.CQRS.Commands;
+using MCAProject_Twitter.CQRS.Queries;
+using MCAProject_Twitter.DTOs;
 using MCAProject_Twitter.Models;
 using MCAProject_Twitter.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -9,32 +11,43 @@ namespace MCAProject_Twitter.Controllers
     [Route("api/[controller]")]
     public class UsersController : ControllerBase
     {
-        private readonly UserService _service;
-        public UsersController(UserService service)
+        private readonly RegisterUserCommandHandler _registerHandler;
+        private readonly LoginQueryHandler _loginHandler;
+
+        public UsersController(
+            RegisterUserCommandHandler registerHandler,
+            LoginQueryHandler loginHandler)
         {
-            _service = service;
+            _registerHandler = registerHandler;
+            _loginHandler = loginHandler;
         }
 
         [HttpPost("register")]
-        public async Task<IActionResult> Register([FromBody] RegisterDto dto)
+        public async Task<IActionResult> Register([FromBody] RegisterUserCommand command)
         {
-            if (!ModelState.IsValid)
-                return BadRequest(ModelState);
+            if (string.IsNullOrWhiteSpace(command.Username) ||
+                string.IsNullOrWhiteSpace(command.Password))
+                return BadRequest("Username and password are required");
 
-            var success = await _service.Register(new User { Username = dto.Username }, dto.Password);
+            var (success, message) = await _registerHandler.Handle(command);
+
             if (!success)
-                return Conflict("Username already exists.");
+                return BadRequest(message);
 
-            return Ok(new { message = "Registration successful." });
+            return Ok(new { message });
         }
 
-
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] LoginDto dto)
+        public async Task<IActionResult> Login([FromBody] LoginQuery query)
         {
-            var user = await _service.Login(dto.Username, dto.Password);
+            if (string.IsNullOrWhiteSpace(query.Username) ||
+                string.IsNullOrWhiteSpace(query.Password))
+                return BadRequest("Username and password are required");
+
+            var user = await _loginHandler.Handle(query);
+
             if (user == null)
-                return Unauthorized("Invalid username or password.");
+                return Unauthorized("Invalid credentials");
 
             return Ok(new { message = "Login successful", user = user.Username });
         }

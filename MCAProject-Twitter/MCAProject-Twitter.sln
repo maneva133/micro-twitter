@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCAProject-Twitter", "MCAProject-Twitter\MCAProject-Twitter.csproj", "{942C0745-65D5-4A3E-B318-02C501212847}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCAProject_Twitter.Tests", "MCAProject_Twitter.Tests\MCAProject_Twitter.Tests.csproj", "{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{942C0745-65D5-4A3E-B318-02C501212847}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942C0745-65D5-4A3E-B318-02C501212847}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942C0745-65D5-4A3E-B318-02C501212847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3491E363-27F0-4E7E-93BA-D66C9B7C03CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
